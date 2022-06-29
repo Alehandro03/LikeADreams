@@ -26,7 +26,7 @@ namespace LikeADreams.Data.DBConnect
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
-            //modelBuilder.Entity<Admin>().HasData(        Пример предворительного заполнения таблици перед первой миграцией.
+            //modelBuilder.Entity<Admin>().HasData(            Пример предворительного заполнения таблици перед первой миграцией.
             //new Admin()
             //{
             //    Id = 1,
